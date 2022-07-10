@@ -24,6 +24,8 @@ const data = {
   products: [
     {
       name: 'producto 1',
+      providerCode: 'P001',
+      dBBKositasCode: 'P001',
       slug: 'product-1',
       category: 'toys',
       image: '/images/p1.jpg',
@@ -37,6 +39,8 @@ const data = {
     },
     {
       name: 'producto 2',
+      providerCode: 'P002',
+      dBBKositasCode: 'P002',
       slug: 'product-2',
       category: 'toys',
       image: '/images/p2.jpg',
@@ -50,6 +54,8 @@ const data = {
     },
     {
       name: 'producto 3',
+      providerCode: 'P003',
+      dBBKositasCode: 'P003',
       slug: 'product-3',
       category: 'toys',
       image: '/images/p1.jpg',
@@ -63,6 +69,8 @@ const data = {
     },
     {
       name: 'producto 4',
+      providerCode: 'P004',
+      dBBKositasCode: 'P004',
       slug: 'product-4',
       category: 'toys',
       image: '/images/p2.jpg',
